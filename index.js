@@ -20,10 +20,10 @@ class ZOE {
     	this.api = new APIWrapper({ username: this.config["username"], password: this.config["password"]})
     
     	this.interval = null
-	this.intervalDuration = config["interval"] || 1800000
-	this.low_battery_level = config["low_battery_level"] || 40
-	this.vin = config["vin"] || "VIN"
-	this.distance = config["distance"] || "miles"
+    	this.intervalDuration = config["interval"] || 1800000
+    	this.low_battery_level = config["low_battery_level"] || 40
+    	this.vin = config["vin"] || "VIN"
+    	this.distance = config["distance"] || "miles"
 		
     	// some internal state
     	this.state = {
