@@ -1,5 +1,5 @@
 # homebridge-zoe
-*Renault updated the API some years ago. This fork is under development with the goal to usse the new API*
+*Renault updated the API some years ago. This fork is under development with the goal to use the new API*
 
 `homebridge-zoe` is a plugin for Homebridge.  Providing Renault Zoe owners with simple access and basic controls to your EV car options like:
 
