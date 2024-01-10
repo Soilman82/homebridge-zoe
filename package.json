@@ -1,4 +1,6 @@
 {
+  "private": true,
+  "displayName": "Homebridge Renault Zoe Status",
   "name": "homebridge-zoe",
   "version": "0.1.0",
   "description": "Renault ZOE Plugin for homebridge: https://github.com/nfarina/homebridge",
